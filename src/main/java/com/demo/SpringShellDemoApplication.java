@@ -29,6 +29,7 @@ public class SpringShellDemoApplication {
 		readUserAndPassword();
 		Connection.connectByCred(username, password);
 		SpringApplication.run(SpringShellDemoApplication.class, args);
+		Connection.close();
 	}
 
 	@Bean
