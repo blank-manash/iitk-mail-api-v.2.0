@@ -6,5 +6,5 @@ You can run `` java -jar your_file.jar `` after you download the file from the r
 After successful authentication, run ``help`` to see all the commands, and to get help on a specific commands, use `` help command_name``.
 
 -------------
-
+Tests and bug issues are welcome, please report them in github issues section.
 If anyone wants to contribute, they free to do so and may contact me in my email.
